@@ -8,6 +8,10 @@
 
 Thuật toán sử dụng: **K-Means Clustering**  
 Công nghệ: **Python + Streamlit + Scikit-learn + Pandas + Matplotlib**
+## 📊 Giao diện ứng dụng
+
+![Customer Segmentation App Demo](https://github.com/thanhtin57200-droid/customer-segmentation-streamlit/raw/main/demo.png)
+
 
 ---
 
